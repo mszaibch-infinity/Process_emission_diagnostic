@@ -1,0 +1,4 @@
+Issue,Evidence,Impact
+Pressure leak,Stable O2 despite CO increase,Diluted sensor readings
+Wrong correction factor,Audit values consistently higher,Underreported emissions
+Incomplete combustion,CO increased despite high burner load,Real emissions exceedance

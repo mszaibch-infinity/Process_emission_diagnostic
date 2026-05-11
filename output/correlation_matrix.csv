@@ -1,0 +1,6 @@
+,production_rate_pct,burner_load_pct,o2_pct,temperature_C,audit_CO_mg_Nm3
+production_rate_pct,1.0,0.95,0.07,0.74,-0.17
+burner_load_pct,0.95,1.0,0.08,0.81,-0.17
+o2_pct,0.07,0.08,1.0,0.06,0.01
+temperature_C,0.74,0.81,0.06,1.0,-0.14
+audit_CO_mg_Nm3,-0.17,-0.17,0.01,-0.14,1.0
