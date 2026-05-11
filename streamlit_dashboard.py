@@ -17,6 +17,7 @@ streamlit run dashboard.py
 # 1. IMPORT LIBRARIES
 # ======================================================
 
+from hyperlink import URL
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -241,3 +242,4 @@ This explains why audit measurements were much higher
 than online sensor readings.
 
 """)
+
